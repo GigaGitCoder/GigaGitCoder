@@ -1,6 +1,8 @@
-### Hi there 👋
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG" width="200"/>
+  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="500"/>
+</div>
+<div id="header" align="center">
+   Hi there, its me 👋
 </div>
 <!--
 **GigaGitCoder/GigaGitCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
