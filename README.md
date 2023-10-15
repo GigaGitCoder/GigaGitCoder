@@ -10,7 +10,7 @@ knowledge better one, also like to do useless stuff, playing computer games <br>
 <br>
 You can also check some of my repositories, but for the moment i think you won't find something useful <br>
 
-discord & telegram: `dishunter` `@EgorXmel`
+discord & telegram: `dishunter` `@IgorXmel`
 </div>
 
 
