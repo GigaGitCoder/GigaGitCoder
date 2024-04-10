@@ -1,7 +1,7 @@
 <div align="center">
 
 ### *`Egor Holkin`*
-#### *Bataysk, 16 years*
+#### *Bataysk, 17 years*
   
 Hi there, i'm from Russia <br>
 I'm good at programming and math <br> 
