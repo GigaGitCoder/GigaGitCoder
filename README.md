@@ -1,43 +1,19 @@
-<div align="center">
+## Bio
 
-### *`Egor Holkin`*
-#### *Bataysk, 17 years*
-  
-Hi there, i'm from Russia <br>
-I'm good at programming and math <br> 
-I'm learning `Python` and `C++`, but my python <br> 
-knowledge better one, also like to do useless stuff, playing computer games <br>
-<br>
-You can also check some of my repositories, but for the moment i think you won't find something useful <br>
+My name is `Egor`, im 17 y.o. programmer and artist from Russia.<br> Want to become a `Game Designer` in future. <br><br>
 
-discord & telegram: `dishunter` `@IgorXmel`
-</div>
+![Discord](https://img.shields.io/badge/Discord-dishunter-7289DA?style=for-the-badge&logo=discord&logoColor=white) <br>
+![Telegram](https://img.shields.io/badge/Telegram-@IgorXmel-27a7e7?style=for-the-badge&logo=telegram&logoColor=white) <br>
+![YouTube](https://img.shields.io/badge/YouTube-@gdmanjournal-FF0000?style=for-the-badge&logo=youtube&logoColor=white) <br>
+![Gmail](https://img.shields.io/badge/Gmail-egorkholkin2018@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white) <br> <br> <br>
 
+## Tech stack
 
-<!--<div id="header" align="center">
-    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="500"/>
-</div>
+- <h3>Languages</h3>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c_sharp-%239900FF.svg?style=for-the-badge&logo=C&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCbEiO0crEyQeSDa9uTNUpxQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img alt="Discord" src="https://img.shields.io/discord/:serverId">
-    <img src="https://komarev.com/ghpvc/?username=GigaGitCoder&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
-<div id="header" align="center">
-    🌱 So, hello there. I'm 16 years old student, my name is Egor and surname is Holkin, i'm from Russia and i'm learning how to programming! Now i know basic-level of Python and C++. And here you can check my works and projects.
-</div>
-**GigaGitCoder/GigaGitCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <h3>Game Engines</h3>
+![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5-%23323330.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23525252.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%233D85C6.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <h3>Other knowledge</h3>
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
