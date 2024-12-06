@@ -15,5 +15,8 @@ My name is `Egor`, im 17 y.o. programmer and artist from Russia.<br> Want to bec
 - <h3>Game Engines</h3>
 ![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5-%23323330.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23525252.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%233D85C6.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
-- <h3>Other knowledge</h3>
+- <h3>Git</h3>
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
+
+- <h3>Other knowledge</h3>
+![JavaScript](https://img.shields.io/badge/Django-%23142f27.svg?style=for-the-badge&logo=Django&logoColor=%23FFFFFF) 
