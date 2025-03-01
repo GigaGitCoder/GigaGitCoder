@@ -23,7 +23,7 @@ jobs:
           
       - name: Update README
         run: |
-          sed -i "s/Days_without_commits-[0-9]*-red/Days_without_commits-${{ env.DAYS_WITHOUT_COMMITS }}-red/" README.md
+          sed -i "s/Days_without_commits-[0-9]*-green/Days_without_commits-${{ env.DAYS_WITHOUT_COMMITS }}-green/" README.md
           
       - name: Commit changes
         run: |
