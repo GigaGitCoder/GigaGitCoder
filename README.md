@@ -44,6 +44,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+## Hackathons
+
+- [RinHack #9](https://github.com/GigaGitCoder/GigaPack) (November 29 - December 1, 2024)
+  - 💼 Got an internship offer at [FastReport](https://быстрыеотчеты.рф)
+  - 📰 Featured in [Molot newspaper](https://don24.tv/uploads/Molot/Molot_91-10_12_2024-.pdf)
+- [DevHack #5](https://github.com/GigaGitCoder/web_knb) (February 26 - March 2, 2025)
+
+
 ##
 
 <div align="center">
