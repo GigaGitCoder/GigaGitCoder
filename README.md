@@ -14,7 +14,7 @@
 ## Contact Me
 
 ![Discord](https://img.shields.io/badge/Discord-dishunter-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-@IgorXmel-27a7e7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IgorXmel)
+[![Telegram](https://img.shields.io/badge/Telegram-@IgorXmel-27a7e7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IgorXmel) <br>
 [![YouTube](https://img.shields.io/badge/YouTube-@gdmanjournal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gdmanjournal)
 [![Gmail](https://img.shields.io/badge/Gmail-egorkholkin2018@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:egorkholkin2018@gmail.com)
 
