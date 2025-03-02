@@ -55,10 +55,5 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GigaGitCoder&locale=en&hide_title=false&layout=compact&card_width=320&card_height=&langs_count=5&theme=dracula&hide_border=false&order=2" alt="GitHub Stats">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GigaGitCoder&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Most Used Languages">
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/GigaGitCoder/GigaGitCoder/output/snake.svg" alt="Snake animation" />
 </div> 
