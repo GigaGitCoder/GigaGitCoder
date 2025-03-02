@@ -50,7 +50,7 @@
   - 💼 Got an internship offer at [FastReport](https://быстрыеотчеты.рф)
   - 📰 Featured in [Molot newspaper](https://don24.tv/uploads/Molot/Molot_91-10_12_2024-.pdf)
 - [DevHack #5](https://github.com/GigaGitCoder/web_knb) (February 26 - March 2, 2025)
-
+ - 🏆 Second place
 
 ##
 
