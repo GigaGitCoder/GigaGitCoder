@@ -46,7 +46,7 @@
 
 ## Hackathons
 
-- [RinhHack #9](https://github.com/GigaGitCoder/GigaPack) (November 29 - December 1, 2024)
+- [RinHack #9](https://github.com/GigaGitCoder/GigaPack) (November 29 - December 1, 2024)
   - 💼 Got an internship offer at [FastReport](https://быстрыеотчеты.рф)
   - 📰 Featured in [Molot newspaper](https://don24.tv/uploads/Molot/Molot_91-10_12_2024-.pdf)
 - [DevHack #5](https://github.com/GigaGitCoder/web_knb) (February 26 - March 2, 2025)
