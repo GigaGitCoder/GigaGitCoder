@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Egor!</h1>
-  <h3>17 y.o. programmer and artist from Russia</h3>
+  <h3>18 y.o. programmer and artist from Russia</h3>
   <p>Aspiring to become a <code>Game Designer</code></p>
 </div>
 
