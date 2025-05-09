@@ -50,6 +50,8 @@
 - [DevHack #5](https://github.com/GigaGitCoder/web_knb) (February 26 - March 2, 2025)
   - 🏆 Second place
 - [Хакатон Весна 2025](https://github.com/GigaGitCoder/GigaSecretary) (April 4 - 6, 2025)
+  - 🏆 Second place
+- [SibGameJam](https://happyflamestudio.itch.io/battlebeat) (May 1 - 3, 2025)
 
 ##
 
