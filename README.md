@@ -6,8 +6,6 @@
 
 <!-- Fun counter -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Days_without_commits-0-green?style=for-the-badge" />
-  <br>
   <img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" />
 </div>
 
