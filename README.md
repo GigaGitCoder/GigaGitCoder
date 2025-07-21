@@ -48,11 +48,11 @@
   - 💼 Got an internship offer at [FastReport](https://быстрыеотчеты.рф)
   - 📰 Featured in [Molot newspaper](https://don24.tv/uploads/Molot/Molot_91-10_12_2024-.pdf)
 - [DevHack #5](https://github.com/GigaGitCoder/web_knb) (February 26 - March 2, 2025)
-  - 🏆 Second place
+  - 🏆 2nd place
 - [Хакатон Весна 2025](https://github.com/GigaGitCoder/GigaSecretary) (April 4 - 6, 2025)
-  - 🏆 Second place
+  - 🏆 2nd place
 - [SibGameJam](https://happyflamestudio.itch.io/battlebeat) (May 1 - 3, 2025)
-
+  - 📌 [175th place](https://itch.io/jam/sibgamejam-may-2025/rate/3523789)
 ##
 
 <div align="center">
