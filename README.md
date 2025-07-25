@@ -40,7 +40,7 @@
 ### Web Development
 ![Django](https://img.shields.io/badge/Django-%23142f27.svg?style=for-the-badge&logo=Django&logoColor=%23FFFFFF) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
 ## Hackathons
 
