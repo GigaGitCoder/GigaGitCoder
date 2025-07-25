@@ -1,12 +1,7 @@
 <div align="center">
-  <h1>👋 Hi, I'm Egor!</h1>
-  <h3>18 y.o. programmer and artist from Russia</h3>
-  <p>Aspiring to become a <code>Game Designer</code></p>
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=1000&height=100&lines=C%3A%5C%3E+start+GigaGitCoder.about;Hi+there%2C+my+name+is+Egor%2C+18+y.o.;I'm+beginner+programmer+from+Russia;I'm+trying+to+find+myself;Some+day+i'll+become+Game+Designer+%3A3)](https://git.io/typing-svg)
 
-<!-- Fun counter -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" />
 </div>
 
 ## Contact Me
@@ -59,3 +54,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/GigaGitCoder/GigaGitCoder/output/snake.svg" alt="Snake animation" />
 </div> 
+
+<!-- Fun counter -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" />
+</div>
