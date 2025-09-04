@@ -38,7 +38,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
-## Hackathons
+## Competitions
 
 - [RinHack #9](https://github.com/GigaGitCoder/GigaPack) (November 29 - December 1, 2024)
   - 💼 Got an internship offer at [FastReport](https://быстрыеотчеты.рф)
